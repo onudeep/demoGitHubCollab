@@ -21,10 +21,10 @@ namespace UnderstandingClasses
                 car1.Year,
                 car1.Color);
             
-            //decimal value = DetermineMarketValue(car1);
-            //Console.WriteLine("{0:C}",value);
+            decimal value = DetermineMarketValue(car1);
+            Console.WriteLine("{0:C}",value);
 
-            //Console.WriteLine("{0:C}",car1.DetermineMarketValue());
+            Console.WriteLine("{0:C}",car1.DetermineMarketValue());
             Car car2 = new Car();
             car2 = car1;
 
@@ -41,10 +41,11 @@ namespace UnderstandingClasses
                  car2.Model,
                  car2.Year,
                  car2.Color);
-            //car2 = null; //car2(reference to the object of car1) is removed
+            car2 = null; //car2(reference to the object of car1) is removed
+       
             Console.ReadLine();
         }
-
+        // new line added
         private static decimal DetermineMarketValue(Car car) {
             decimal carValue = 100.0M;
             return carValue;
