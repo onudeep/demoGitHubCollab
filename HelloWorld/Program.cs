@@ -63,12 +63,12 @@ namespace HelloWorld
         private static void GuessingGame() {
             Console.WriteLine("Guessing Game");
             Random random = new Random();
-            int randomNumber = random.Next(1, 11);
+            int randomNumber = random.Next(1, 8);
             int guesses = 0;
             bool incorrect = true;
             do
             {
-                Console.WriteLine("Guess a number between 1 and 10");
+                Console.WriteLine("Guess a number between 1 and 7");
                 string result = Console.ReadLine();
                 if (result == randomNumber.ToString()) {
                     incorrect = false;
