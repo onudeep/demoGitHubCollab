@@ -4,3 +4,10 @@ C:\Users\anudeepg\source\repos\HelloWorld\HandlingEvents\bin\Debug\HandlingEvent
 C:\Users\anudeepg\source\repos\HelloWorld\HandlingEvents\obj\Debug\HandlingEvents.csproj.CoreCompileInputs.cache
 C:\Users\anudeepg\source\repos\HelloWorld\HandlingEvents\obj\Debug\HandlingEvents.exe
 C:\Users\anudeepg\source\repos\HelloWorld\HandlingEvents\obj\Debug\HandlingEvents.pdb
+D:\repo\Thairepotraining\demoGitHubCollab\HandlingEvents\bin\Debug\HandlingEvents.exe.config
+D:\repo\Thairepotraining\demoGitHubCollab\HandlingEvents\bin\Debug\HandlingEvents.exe
+D:\repo\Thairepotraining\demoGitHubCollab\HandlingEvents\bin\Debug\HandlingEvents.pdb
+D:\repo\Thairepotraining\demoGitHubCollab\HandlingEvents\obj\Debug\HandlingEvents.csprojResolveAssemblyReference.cache
+D:\repo\Thairepotraining\demoGitHubCollab\HandlingEvents\obj\Debug\HandlingEvents.csproj.CoreCompileInputs.cache
+D:\repo\Thairepotraining\demoGitHubCollab\HandlingEvents\obj\Debug\HandlingEvents.exe
+D:\repo\Thairepotraining\demoGitHubCollab\HandlingEvents\obj\Debug\HandlingEvents.pdb

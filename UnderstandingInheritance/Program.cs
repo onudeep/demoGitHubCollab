@@ -39,6 +39,10 @@ namespace UnderstandingInheritance
         public int Year { get; set; }
         public string Color { get; set; }
 
+        public Car()
+        {
+            Console.WriteLine("calling car class constructor");
+        }
         public virtual string FormatMe() { //Virtual function may or maynot be overridden
                                            //Abstract function hsa to be overriddem
             return String.Format("{0}-{1}-{2}-{3}", 
@@ -52,6 +56,11 @@ namespace UnderstandingInheritance
     class Truck : Car
     {
         public int TowingCapacity { get; set; }
+
+        public Truck() :base()
+        {
+            Console.WriteLine("calling truck constructor");
+        }
         
         public override string FormatMe()
         {
