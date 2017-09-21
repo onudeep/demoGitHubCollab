@@ -5,3 +5,10 @@ C:\Users\anudeepg\source\repos\HelloWorld\UnderstandingClasses\obj\Debug\Underst
 C:\Users\anudeepg\source\repos\HelloWorld\UnderstandingClasses\obj\Debug\UnderstandingClasses.csproj.CoreCompileInputs.cache
 C:\Users\anudeepg\source\repos\HelloWorld\UnderstandingClasses\obj\Debug\UnderstandingClasses.exe
 C:\Users\anudeepg\source\repos\HelloWorld\UnderstandingClasses\obj\Debug\UnderstandingClasses.pdb
+C:\Users\kajala\source\repos\demoGitHubCollab\UnderstandingClasses\bin\Debug\UnderstandingClasses.exe.config
+C:\Users\kajala\source\repos\demoGitHubCollab\UnderstandingClasses\bin\Debug\UnderstandingClasses.exe
+C:\Users\kajala\source\repos\demoGitHubCollab\UnderstandingClasses\bin\Debug\UnderstandingClasses.pdb
+C:\Users\kajala\source\repos\demoGitHubCollab\UnderstandingClasses\obj\Debug\UnderstandingClasses.csprojResolveAssemblyReference.cache
+C:\Users\kajala\source\repos\demoGitHubCollab\UnderstandingClasses\obj\Debug\UnderstandingClasses.csproj.CoreCompileInputs.cache
+C:\Users\kajala\source\repos\demoGitHubCollab\UnderstandingClasses\obj\Debug\UnderstandingClasses.exe
+C:\Users\kajala\source\repos\demoGitHubCollab\UnderstandingClasses\obj\Debug\UnderstandingClasses.pdb
