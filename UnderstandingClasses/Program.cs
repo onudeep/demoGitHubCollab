@@ -42,6 +42,10 @@ namespace UnderstandingClasses
                  car2.Year,
                  car2.Color);
             //car2 = null; //car2(reference to the object of car1) is removed
+
+            Happy shakeelHappy = new Happy();
+            shakeelHappy.feelHappy();
+
             Console.ReadLine();
         }
 
@@ -49,6 +53,8 @@ namespace UnderstandingClasses
             decimal carValue = 100.0M;
             return carValue;
         }
+
+
     }
     class Car {
         public string Make { get; set; }
@@ -66,6 +72,14 @@ namespace UnderstandingClasses
             }
 
             return carValue;
+        }
+    }
+
+    class Happy {
+        public string happyMsg = "I'm on top o'the world !";
+
+        public string feelHappy () {
+            return happyMsg;
         }
     }
 }

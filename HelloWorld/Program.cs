@@ -16,6 +16,7 @@ namespace HelloWorld
             while(displayMenu){
                 displayMenu = Menu();
             }
+
         }
 
         private static bool Menu()
@@ -23,7 +24,8 @@ namespace HelloWorld
             Console.WriteLine("Choose an option :");
             Console.WriteLine("1) Option 1");
             Console.WriteLine("2) Option 2");
-            Console.WriteLine("3) Exit");
+            Console.WriteLine("3) Option 3");
+            Console.WriteLine("4) Exit");
             string result = Console.ReadLine();
             if (result == "1")
             {
@@ -36,6 +38,12 @@ namespace HelloWorld
                 return true;
             }
             else if (result == "3")
+            {
+                Happy h = new Happy();
+                h.feelHappy();
+                return true;
+            }
+            else if (result == "4")
             {
                 return false;
             }
@@ -82,6 +90,17 @@ namespace HelloWorld
             Console.WriteLine("Correct!");
 
             Console.ReadLine();
+        }
+    }
+
+    // Feeling happy class
+    class Happy
+    {
+        public string happyMsg = "I'm on top o'the world !";
+
+        public string feelHappy()
+        {
+            return happyMsg;
         }
     }
 }
