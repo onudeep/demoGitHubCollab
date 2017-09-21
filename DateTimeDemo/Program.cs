@@ -15,6 +15,7 @@ namespace DateTimeDemo
             DateTime date2 = DateTime.Parse("july-01-1995");
             Console.WriteLine("ToString() " + date2.ToLongDateString()); 
             Console.WriteLine("ToShortDateString() " + dateTime.ToShortDateString());
+            Console.WriteLine("Testing...");
             Console.ReadLine();            
         }
         
