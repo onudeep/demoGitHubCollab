@@ -16,6 +16,8 @@ namespace DateTimeDemo
             Console.WriteLine("ToString() " + date2.ToLongDateString()); 
             Console.WriteLine("ToShortDateString() " + dateTime.ToShortDateString());
             Console.WriteLine("Testing...");
+            DateTime date = DateTime.Now;
+            Console.WriteLine(date.ToShortDateString() + "date");
             Console.ReadLine();            
         }
         
