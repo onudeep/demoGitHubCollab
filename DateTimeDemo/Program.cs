@@ -15,6 +15,9 @@ namespace DateTimeDemo
             DateTime date2 = DateTime.Parse("nov-02-1993");
             Console.WriteLine("ToString() " + date2.ToLongDateString()); 
             Console.WriteLine("ToShortDateString() " + dateTime.ToShortDateString());
+            DateTime date =DateTime.Parse("16\\03\\1995");
+            TimeSpan timeSpan=DateTime.Now.Subtract(date);
+            Console.WriteLine(timeSpan.TotalDays+"chnaged by rahul");
             Console.ReadLine();            
         }
         
