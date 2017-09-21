@@ -1,0 +1,6 @@
+C:\Users\anudeepg\source\repos\HelloWorld\HandlingEvents\bin\Debug\HandlingEvents.exe.config
+C:\Users\anudeepg\source\repos\HelloWorld\HandlingEvents\bin\Debug\HandlingEvents.exe
+C:\Users\anudeepg\source\repos\HelloWorld\HandlingEvents\bin\Debug\HandlingEvents.pdb
+C:\Users\anudeepg\source\repos\HelloWorld\HandlingEvents\obj\Debug\HandlingEvents.csproj.CoreCompileInputs.cache
+C:\Users\anudeepg\source\repos\HelloWorld\HandlingEvents\obj\Debug\HandlingEvents.exe
+C:\Users\anudeepg\source\repos\HelloWorld\HandlingEvents\obj\Debug\HandlingEvents.pdb

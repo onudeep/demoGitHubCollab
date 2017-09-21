@@ -1,0 +1,7 @@
+C:\Users\anudeepg\source\repos\HelloWorld\DateTimeDemo\bin\Debug\DateTimeDemo.exe.config
+C:\Users\anudeepg\source\repos\HelloWorld\DateTimeDemo\bin\Debug\DateTimeDemo.exe
+C:\Users\anudeepg\source\repos\HelloWorld\DateTimeDemo\bin\Debug\DateTimeDemo.pdb
+C:\Users\anudeepg\source\repos\HelloWorld\DateTimeDemo\obj\Debug\DateTimeDemo.csprojResolveAssemblyReference.cache
+C:\Users\anudeepg\source\repos\HelloWorld\DateTimeDemo\obj\Debug\DateTimeDemo.csproj.CoreCompileInputs.cache
+C:\Users\anudeepg\source\repos\HelloWorld\DateTimeDemo\obj\Debug\DateTimeDemo.exe
+C:\Users\anudeepg\source\repos\HelloWorld\DateTimeDemo\obj\Debug\DateTimeDemo.pdb
